@@ -1,4 +1,4 @@
-# Konak Döner Restaurant - React Web Application
+# A Restaurant - React Web Application
 
 ## Description
 This is a responsive web application for a restaurant, showcasing their history, types of foods, menu, testimonials, and a contact form. The application is built using React.js, Bootstrap, and React Router. 
